@@ -1,8 +1,3 @@
-/*
- * ******************************************************
- * Copyright VMware, Inc. 2014.   All Rights Reserved.
- * ******************************************************
- */
 package net.aryaman.algo.misc;
 
 public class Checking implements BankAccount {

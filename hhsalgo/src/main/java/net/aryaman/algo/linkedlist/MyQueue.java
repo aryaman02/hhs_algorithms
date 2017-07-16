@@ -1,3 +1,4 @@
+package net.aryaman.algo.linkedlist;
 
 public class MyQueue {
 
